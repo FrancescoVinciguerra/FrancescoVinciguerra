@@ -9,7 +9,6 @@ I am fascinated by the behavior of complex systems, which leads me to study:
 
 ### 💼 Experience & Achievements
 * **Industrial AI:** Recently completed a **Data & AI Internship at Accenture**, where I focused on the delivery of multi-agent workflows.
-* **Competitions:** Winner of the **IMC Trading Competition (2025)** at EPFL.
 
 ### 🏀 Beyond the Math
 * **Basketball:** I am a former **semi-professional player**. I am also a passionate supporter of soccer and basketball.
